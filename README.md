@@ -2,7 +2,7 @@
 - 🌊 MDN = @markdenardo
 - 👀 Creative Coding libraries in JS LUA Ruby HASKELL ; p5.JS Libraries, Twine Projects, Scratch Projects
 - 🌱 hydra-synth https://hydra.ojack.xyz/ ; live coding, performing, teaching.
-- 💞️ code, projects, performances
+- 💞️ code, projects, performances https://livecode.nyc/
 - 📫 @markdenardo (IG, Twitter, Soundcloud, Vimeo, YouTube, Spotify)
 
 <!---
