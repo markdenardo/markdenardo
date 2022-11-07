@@ -1,5 +1,5 @@
 
-- 🌊 MDN
+- 🌊 MDN (they/them)
 - 👀 Creative Coding libraries in JS LUA Ruby HASKELL ; p5.JS Libraries, Twine Projects, Scratch Projects
 - 🌱 hydra-synth https://hydra.ojack.xyz/ ; live coding, performing, teaching.
 - 💞️ code, projects, performances https://livecode.nyc/
