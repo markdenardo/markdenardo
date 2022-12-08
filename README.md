@@ -1,6 +1,6 @@
 
 - 🌊 MDN (they/them)
-- 👀 Creative Coding libraries in JS, LUA, Ruby, HASKELL ; p5.JS, Twine, Scratch
+- 👀 Creative Coding libraries in JS, LUA, Ruby, HASKELL ; p5.JS, Twine, Scratch, Sonic Pi
 - 🌱 hydra-synth https://hydra.ojack.xyz/ ; live coding, performing, teaching.
 - 💞️ code, projects, performances https://livecode.nyc/
 - 📫 [@markdenardo](https://www.instagram.com/markdenardo/)
