@@ -1,7 +1,9 @@
 
 - 🌊 MDN (they/them/we)
+- http://whichcodewitch.com
 - http://mdn-bio.glitch.me
-- 🐈‍⬛ Lead Educator for After3 Coding Club 
+- 🐈‍⬛ Lead Educator for After3 Coding Club
+- 🧙🏾 Empress of Which Code Witch [@whichcodewitch](http://instagram.com/whichcodewitch)
 - 🌱 hydra-synth https://hydra.ojack.xyz/ ; live coding, performing, teaching.
 - 💞️ code, projects, performances https://livecode.nyc/
 - 📫 [@markdenardo](https://www.instagram.com/markdenardo/)
